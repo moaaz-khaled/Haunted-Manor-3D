@@ -49,9 +49,8 @@ This repository contains:
 ---
 
 ## 👤 Developer
-**Developed by:** Moaaz Khaled  
-💬 Feel free to reach out or star the repo if you enjoyed it!
-
+- **moaaz khaled**
+- **menna khalifa**
 ---
 
 ### 🕯️ “The manor waits for you... will you dare to enter?”
